@@ -1,0 +1,14 @@
+D:\Back-End\LoopPractice\LoopPractice\bin\Debug\net8.0\LoopPractice.exe
+D:\Back-End\LoopPractice\LoopPractice\bin\Debug\net8.0\LoopPractice.deps.json
+D:\Back-End\LoopPractice\LoopPractice\bin\Debug\net8.0\LoopPractice.runtimeconfig.json
+D:\Back-End\LoopPractice\LoopPractice\bin\Debug\net8.0\LoopPractice.dll
+D:\Back-End\LoopPractice\LoopPractice\bin\Debug\net8.0\LoopPractice.pdb
+D:\Back-End\LoopPractice\LoopPractice\obj\Debug\net8.0\LoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\LoopPractice\LoopPractice\obj\Debug\net8.0\LoopPractice.AssemblyInfoInputs.cache
+D:\Back-End\LoopPractice\LoopPractice\obj\Debug\net8.0\LoopPractice.AssemblyInfo.cs
+D:\Back-End\LoopPractice\LoopPractice\obj\Debug\net8.0\LoopPractice.csproj.CoreCompileInputs.cache
+D:\Back-End\LoopPractice\LoopPractice\obj\Debug\net8.0\LoopPractice.dll
+D:\Back-End\LoopPractice\LoopPractice\obj\Debug\net8.0\refint\LoopPractice.dll
+D:\Back-End\LoopPractice\LoopPractice\obj\Debug\net8.0\LoopPractice.pdb
+D:\Back-End\LoopPractice\LoopPractice\obj\Debug\net8.0\LoopPractice.genruntimeconfig.cache
+D:\Back-End\LoopPractice\LoopPractice\obj\Debug\net8.0\ref\LoopPractice.dll
