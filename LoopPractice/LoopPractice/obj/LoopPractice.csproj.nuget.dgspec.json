@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Back-End\\LoopPractice\\LoopPractice\\LoopPractice.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\CodeHomework\\Nazrin-Homework\\LoopPractice\\LoopPractice\\LoopPractice.csproj": {}
   },
   "projects": {
-    "D:\\Back-End\\LoopPractice\\LoopPractice\\LoopPractice.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\CodeHomework\\Nazrin-Homework\\LoopPractice\\LoopPractice\\LoopPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Back-End\\LoopPractice\\LoopPractice\\LoopPractice.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\CodeHomework\\Nazrin-Homework\\LoopPractice\\LoopPractice\\LoopPractice.csproj",
         "projectName": "LoopPractice",
-        "projectPath": "D:\\Back-End\\LoopPractice\\LoopPractice\\LoopPractice.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\CodeHomework\\Nazrin-Homework\\LoopPractice\\LoopPractice\\LoopPractice.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Back-End\\LoopPractice\\LoopPractice\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\CodeHomework\\Nazrin-Homework\\LoopPractice\\LoopPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
