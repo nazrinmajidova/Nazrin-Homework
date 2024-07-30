@@ -1,0 +1,14 @@
+D:\Back-End\Homework\CustomMethod\bin\Debug\net8.0\CustomMethod.exe
+D:\Back-End\Homework\CustomMethod\bin\Debug\net8.0\CustomMethod.deps.json
+D:\Back-End\Homework\CustomMethod\bin\Debug\net8.0\CustomMethod.runtimeconfig.json
+D:\Back-End\Homework\CustomMethod\bin\Debug\net8.0\CustomMethod.dll
+D:\Back-End\Homework\CustomMethod\bin\Debug\net8.0\CustomMethod.pdb
+D:\Back-End\Homework\CustomMethod\obj\Debug\net8.0\CustomMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\Homework\CustomMethod\obj\Debug\net8.0\CustomMethod.AssemblyInfoInputs.cache
+D:\Back-End\Homework\CustomMethod\obj\Debug\net8.0\CustomMethod.AssemblyInfo.cs
+D:\Back-End\Homework\CustomMethod\obj\Debug\net8.0\CustomMethod.csproj.CoreCompileInputs.cache
+D:\Back-End\Homework\CustomMethod\obj\Debug\net8.0\CustomMethod.dll
+D:\Back-End\Homework\CustomMethod\obj\Debug\net8.0\refint\CustomMethod.dll
+D:\Back-End\Homework\CustomMethod\obj\Debug\net8.0\CustomMethod.pdb
+D:\Back-End\Homework\CustomMethod\obj\Debug\net8.0\CustomMethod.genruntimeconfig.cache
+D:\Back-End\Homework\CustomMethod\obj\Debug\net8.0\ref\CustomMethod.dll
